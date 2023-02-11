@@ -2,7 +2,7 @@
 <h3>
 Pope Computer Science App For Students
 </h3>
-<img src="https://github.com/groeneveldwoodstock/RockPaperScissors/blob/main/rockpaperscissors.png" alt="Screen Shot" style="width:200px;">
+<img src="https://github.com/groeneveldwoodstock/Pope-Computer-Science/blob/main/PopeCSPhone.png" alt="Screen Shot" style="width:200px;">
 <h3>
 What it can do... 
 </h3>
