@@ -2,7 +2,11 @@
 <h3>
 Pope Computer Science App For Students
 </h3>
+<p float="left">
+<img src="https://github.com/groeneveldwoodstock/Pope-Computer-Science/blob/main/PopeCSPhone2.png" alt="Screen Shot" style="width:200px;">
+
 <img src="https://github.com/groeneveldwoodstock/Pope-Computer-Science/blob/main/PopeCSPhone.png" alt="Screen Shot" style="width:200px;">
+</p>
 <h3>
 What it can do... 
 </h3>
